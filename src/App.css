@@ -1,0 +1,60 @@
+.App {
+    padding: 1em;
+    padding-top: 19.5em;
+    background: url(https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-portal-shoes-white-clothing-zavvi-23.png);
+    background-repeat: no-repeat;
+    background-size: 19em;
+    background-position: top center;
+    display: block;
+}
+.main-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.card {
+width: 20em;
+    height: max-content;
+    border-radius: 2px;
+    padding: 0px;
+    color: whitesmoke;
+    margin-bottom: 1em;
+    background: #00bedc;
+}
+
+.card .card-inner{
+    border: 1px solid #009bb3;
+    background: #12b0c9;
+    text-align: center;
+    border-radius: 4px;
+    line-height: 2em;
+    padding-bottom: 0.7em;
+}
+.card h3{
+    text-align: center;
+    display: block;
+    margin: 0;
+    width: 100%;
+    padding: 0.5em 0;
+}
+.card img {
+  width: 100%;
+}
+
+.attributes-container {
+  border: 2px solid greenyellow;
+  padding: 10px;
+}
+
+@media (max-width: 767px) {
+  .card{
+    width: 100%;
+  }
+}
