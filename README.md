@@ -4,7 +4,7 @@
 
 #### Instalação: execute `git clone`, `npm install` and run `npm start`
 
-#### Autor: eu, gsm.dados@gmail.com / Linkedin: https://www.linkedin.com/in/gsmdados
+#### Autor: eu, gsm.dados@gmail.com / Linkedin: https://www.linkedin.com/in/gsmdesenvolvimento/
 
 ##### Preview:
 ![print](https://user-images.githubusercontent.com/91918525/174513855-164496f2-0f7e-42aa-9010-0ea9da84e42d.png)
